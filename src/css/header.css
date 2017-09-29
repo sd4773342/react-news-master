@@ -1,0 +1,9 @@
+.header_css {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+}
+.nav {line-height: 60px;font-size: 18px;margin-left: 30px}
+.nav a {padding: 0 25px;color:#555;}
+.nav a:hover {color:red;border-bottom: 2px solid blue}
+.nav .active {color:blue;border-bottom: 2px solid blue}
