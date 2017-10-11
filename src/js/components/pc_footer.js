@@ -14,7 +14,7 @@ export default class PCFooter extends React.Component {
           </Col>
           <Col span={2}></Col>
         </Row>
-        
+
       </footer>
     );
   };
